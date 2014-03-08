@@ -1,10 +1,9 @@
 package com.example.lifev6;
 
-import info.androidhive.slidingmenu.R;
-import info.androidhive.slidingmenu.model.NavDrawerItem;
+import com.example.lifev6.NavDrawerItem;
  
+
 import java.util.ArrayList;
- 
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
